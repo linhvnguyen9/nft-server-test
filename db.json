@@ -1,0 +1,9 @@
+{
+  "nfts": [
+    {
+      "name": "Item 1",
+      "description": "The first item on NFT",
+      "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Poster_Gambit_H%E1%BA%ADu.jpeg"
+    }
+  ]
+}
