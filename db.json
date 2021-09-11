@@ -2,7 +2,7 @@
   "nfts": [
     {
       "id": 0,
-      "name": "Item 0,
+      "name": "Item 0",
       "description": "The first item on NFT",
       "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Poster_Gambit_H%E1%BA%ADu.jpeg"
     },
@@ -20,43 +20,43 @@
     },
     {
       "id": 3,
-      "name": "Item 3,
+      "name": "Item 3",
       "description": "The first item on NFT",
       "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Poster_Gambit_H%E1%BA%ADu.jpeg"
     },
     {
       "id": 4,
-      "name": "Item 4,
+      "name": "Item 4",
       "description": "Another item",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-11-24-at-10-54-26-am-1606233281.png"
     },
-        {
+    {
       "id": 5,
-      "name": "Item 5,
+      "name": "Item 5",
       "description": "The first item on NFT",
       "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Poster_Gambit_H%E1%BA%ADu.jpeg"
     },
     {
       "id": 6,
-      "name": "Item 6,
+      "name": "Item 6",
       "description": "The first item on NFT",
       "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Poster_Gambit_H%E1%BA%ADu.jpeg"
     },
     {
       "id": 7,
-      "name": "Item 7,
+      "name": "Item 7",
       "description": "Another item",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-11-24-at-10-54-26-am-1606233281.png"
     },
     {
-      "id": 8
-      "name": "Item 8,
+      "id": 8,
+      "name": "Item 8",
       "description": "The first item on NFT",
       "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Poster_Gambit_H%E1%BA%ADu.jpeg"
     },
     {
-      "id": 9
-      "name": "Item 9,
+      "id": 9,
+      "name": "Item 9",
       "description": "Another item",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-11-24-at-10-54-26-am-1606233281.png"
     }
